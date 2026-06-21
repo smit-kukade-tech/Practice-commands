@@ -1,3 +1,3 @@
 # Practice-commands
-This is for practice. </br>
+This is for practice. <br/>
 Author - Smit Kukade
